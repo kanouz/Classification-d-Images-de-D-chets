@@ -15,6 +15,21 @@ Le projet explore l'utilisation de réseaux de neurones :
 * **Frameworks :** TensorFlow / Keras ou PyTorch.
 * **Optimisation :** Utilisation de fonctions de perte adaptées à la classification multi-classe.
 
+## 📊 Résultats et Interface
+Voici un aperçu des performances du modèle et de l'interface utilisateur :
+
+### Test du modèle
+Exemple de prédiction sur une image de déchet :
+![Exemple de test](./image/EXEMPLE_ESSAYE_MODELE.png)
+
+### Performance
+Analyse de la précision via la matrice de confusion :
+![Matrice de confusion](./image/CONFUSION_MATRIX.png)
+
+### Application
+Aperçu de l'interface de dépôt de fichiers (Drag & Drop) :
+![Interface](./image/INTERFACE_DRAG&DROP.png)
+
 ## 🛠️ Installation et Utilisation
 1. **Cloner le projet :**
    ```bash
